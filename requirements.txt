@@ -1,1 +1,1 @@
-
+curl "https://api.telegram.org/bot6701828586:AAFe9uy1S2qkpk1evEfAiVjRuLvGuj_peSE/setWebhook" -F "url=https://silver-cape-buffalo-veil.cyclic.app/webhook/" -F "secret_token=secret445566334455"
